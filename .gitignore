@@ -18,3 +18,7 @@ atlassian-ide-plugin.xml
 aws
 target
 *reduced-pom.xml
+
+.settings
+.project
+.classpath
